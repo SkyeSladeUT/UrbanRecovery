@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\10802160\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10802160\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_LevelDesign.1536222426.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10802160\Documents\Repos\DGM3640_LevelDesign\LevelDesign" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Data" t="Include">
+            <e p="BoolData.cs" t="Include" />
+            <e p="FloatData.cs" t="Include" />
+            <e p="FloatDataInput.cs" t="Include" />
+            <e p="PlayerData.cs" t="Include" />
+            <e p="Vector3Data.cs" t="Include" />
+            <e p="VectorListData.cs" t="Include" />
+          </e>
+          <e p="EnemyMovement" t="Include">
+            <e p="EnemyAttack.cs" t="Include" />
+            <e p="EnemyCloseRange.cs" t="Include" />
+            <e p="EnemyEyeRange.cs" t="Include" />
+            <e p="EnemyHearingRange.cs" t="Include" />
+            <e p="EnemyPatrol.cs" t="Include" />
+          </e>
+          <e p="EventScripts" t="Include">
+            <e p="CollisionEvents.cs" t="Include" />
+            <e p="OnStartEvents.cs" t="Include" />
+            <e p="TriggerEvents.cs" t="Include" />
+          </e>
+          <e p="MenuEvents.cs" t="Include" />
+          <e p="PlayerMovement" t="Include">
+            <e p="CameraMovement.cs" t="Include" />
+            <e p="MovementData.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+            <e p="PlayerRotation.cs" t="Include" />
+            <e p="ThrowItem.cs" t="Include" />
+          </e>
+          <e p="WeaponPile.cs" t="Include" />
+        </e>
+        <e p="VFX" t="Include">
+          <e p="Breath" t="Include">
+            <e p="CallBackBreath.cs" t="Include" />
+          </e>
+          <e p="Fire" t="Include">
+            <e p="ExplosionFireAndDebris.cs" t="Include" />
+            <e p="ExplosionPhysicsForce.cs" t="Include" />
+            <e p="FireLight.cs" t="Include" />
+          </e>
+          <e p="ParticleSystemMultiplier.cs" t="Include" />
+        </e>
+      </e>
+      <e p="LevelDesign.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

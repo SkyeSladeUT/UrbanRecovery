@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="855f8edc-9a10-4f8b-900b-e9a3a83b4bb6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LevelDesign/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LevelDesign/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LevelDesign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LevelDesign/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Prototype/Eyeline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Prototype/Eyeline.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Prototype/Hear_near.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Prototype/Hear_near.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Prototype/Brick_Prototype.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Prototype/Brick_Prototype.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyPatrol.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyPatrol.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OnStartEvents.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OnStartEvents.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WeaponPile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WeaponPile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventScripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventScripts/CollisionEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventScripts/OnStartEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyCloseRange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyHearingRange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyPatrol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponPile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyEyeRange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/BoolData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/FloatDataInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerRotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/ThrowItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/MovementData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VFX/Fire/FireLight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/VectorListData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/CameraMovement.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/FloatDataInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerRotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/BrickThrow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/BoolData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/BrickObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OnStartEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/ThrowItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/CameraMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/MovementData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/Vector3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/ListData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/VectorListData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyEyeSight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventScripts/OnStartEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventScripts/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponPile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyRaycast.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyEyeRange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventScripts/CollisionEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyPatrol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyCloseRange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMovement/EnemyHearingRange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/VFX/Fire/FireLight.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XOXtUdOdiSzXfOxqpRRZaVYDYP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="855f8edc-9a10-4f8b-900b-e9a3a83b4bb6" name="Default" comment="" />
+      <created>1578870673992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578870673992</updated>
+      <workItem from="1578870678892" duration="7763000" />
+      <workItem from="1579034397472" duration="10675000" />
+      <workItem from="1579144654448" duration="1315000" />
+      <workItem from="1580860636882" duration="6416000" />
+      <workItem from="1580918336099" duration="1135000" />
+      <workItem from="1580953798546" duration="5784000" />
+      <workItem from="1581112462162" duration="17494000" />
+      <workItem from="1583341183186" duration="744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
